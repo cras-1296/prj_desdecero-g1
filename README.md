@@ -1,24 +1,25 @@
-# README
+# README | prj_desdecero-g1
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Conectando con Heroku y GitHub
 
-Things you may want to cover:
+Este README normalmente documentaría los pasos necesarios para poner en marcha la aplicación.
 
-* Ruby version
+Cosas que puede querer cubrir:
 
-* System dependencies
+* Versión Ruby
 
-* Configuration
+* Dependencias del sistema
 
-* Database creation
+* Configuración
 
-* Database initialization
+* Creación de base de datos
 
-* How to run the test suite
+* Inicialización de la base de datos
 
-* Services (job queues, cache servers, search engines, etc.)
+* Cómo ejecutar el conjunto de pruebas
 
-* Deployment instructions
+* Servicios (colas de trabajo, servidores de caché, motores de búsqueda, etc.)
+
+* Instrucciones de despliegue
 
 * ...
